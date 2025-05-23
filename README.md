@@ -2,16 +2,15 @@
 
 | **About Me** | **My Interests** |
 |--------------|-------------------|
-| I’m currently a **PhD student at Boston University** 🎓. | Systems 🖥️ |
+| I’m currently a **PhD student** at **Boston University** 🎓. | Systems 🖥️ |
 | Graduated **summa cum laude** from University of Miami <br>with a **BS in Electrical and Computer Engineering** 🐬✨. <br> ~~I was also a pre-med for a long time, but we won't talk about that.~~| Accelerators ⚡ |
 I’m passionate about **programming** (obviously) <br>.. so many of my personal projects are here, spanning several years. | Chip design 🧩  |
 
-## Let’s Connect!
+## Let’s Connect! 🤙
 
-Feel free to reach out. I tend to respond fast.  
+Feel free to reach out. I tend to respond fast.
 
-📬 Email: willjdesueza@gmail.com  
-💬 Discord: willjchill
+[![Discord Presence](https://lanyard.cnrad.dev/api/400013542935232512)](https://discord.com/users/400013542935232512)
 
 ---
 
